@@ -1,4 +1,4 @@
-# hackmit
+# JustInCase @ HackMIT 2019
 
 JustInCase: (A clever pun including Justice and Case)
 For HackMIT 2019, we focused on building two tools to expand access to open source legal data to pro-bono lawyers in an intelligent way. 
